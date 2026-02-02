@@ -30,6 +30,14 @@ This project analyzes the FIFA 15 dataset containing 18,945 football players. Th
 
 ---
 
+## 📂 Project Assets
+
+All spreadsheets, visualizations, and detailed analysis are available on the project website:
+
+🔗 https://sites.google.com/view/pratyush-statistics1/home
+
+---
+
 ## 🔗 Project Report
 
 Full Project Website:

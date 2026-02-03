@@ -5,6 +5,16 @@ This project analyzes the FIFA 15 dataset containing 18,945 football players. Th
 
 ---
 
+## 📚 Key Concepts Applied
+
+- Descriptive Statistics
+- Variability Analysis
+- Categorical Data Association
+- Correlation Analysis
+- Data Interpretation & Visualization
+
+---
+
 ## 📊 Key Analysis Performed
 
 - Measures of Central Tendency (Mean, Median, Mode)
